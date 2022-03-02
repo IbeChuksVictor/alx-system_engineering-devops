@@ -1,2 +1,2 @@
-0 SCHOOL *^[a-z]+*[a-z0-9]+ data
-!:mime school
+0 String=SCHOOL School data
+!:mime School
