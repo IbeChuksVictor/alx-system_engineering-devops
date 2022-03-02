@@ -1,2 +1,2 @@
-0 string SCHOOL School
-!:mime School
+0 SCHOOL *^[a-z]+*[a-z0-9]+ data
+!:mime school
